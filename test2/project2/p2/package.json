@@ -1,0 +1,16 @@
+{
+  "name": "p2",
+  "version": "1.0.0",
+  "scripts": {
+    "blueprint:generate": "ts-node blueprint/index.ts"
+  },
+  "dependencies": {},
+  "bluelibs": {
+    "type": "project"
+  },
+  "devDependencies": {
+    "@bluelibs/x": "^1.0.0",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.0"
+  }
+}
